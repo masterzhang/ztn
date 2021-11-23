@@ -1,0 +1,830 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=0.2, maximum-scale=1.0, minimum-scale=0.2">
+    <title>纵腾集团-全球跨境电商基础设施服务商</title>
+    <meta name="description" content="纵腾集团旗下拥有“谷仓海外仓”、“云途物流”、“纵腾冠通”、“沃德太客”等服务品牌,以“全球跨境电商基础设施服务商”为定位,服务全球卖家。">
+    <meta name="keywords" content="纵腾集团,纵腾网络,纵腾,跨境电商物流,跨境电商物流服务商">
+    <base href="/">
+    <link href="static/index/img/favicon.ico" rel="shortcut icon" />
+    <link rel="stylesheet" type="text/css" href="static/index/css/settings.css?20200716"/>
+    <link rel="stylesheet" type="text/css" href="static/index/css/responsive.css?20200716"/>
+    <link rel="stylesheet" href="static/index/css/korbin.css?20200716">
+    <script type="text/javascript" src="static/index/js/jquery-3.6.0.min.js?20200716"></script>
+</head>
+<body>
+
+<div class="head">
+        <div class="logo"><h1><a href="/"><img src="static/index/img/logo.png?20200716" alt="" /></a></h1></div>
+        <div class="nav">
+        <ul>
+                        <li class="curr">
+                <a class="cnh "
+                   href="/">
+                    首页                </a>
+                            </li>
+                        <li >
+                <a class="cnh  arr "
+                   href="javascript:void(0);">
+                    主营业务                </a>
+                                <div class="sub">
+                                        <a href="/oversea.html"> 海外仓服务</a>
+                                        <a href="/logistics.html"> 专线物流</a>
+                                        <a href="/goten.html"> 分销服务</a>
+                                        <a href="/worldtech.html"> 定制化物流服务</a>
+                                    </div>
+                            </li>
+                        <li >
+                <a class="cnh  arr "
+                   href="javascript:void(0);">
+                    资讯中心                </a>
+                                <div class="sub">
+                                        <a href="/news.html"> 纵腾新闻</a>
+                                        <a href="/media.html"> 媒体采访</a>
+                                        <a href="/video.html"> 视频中心</a>
+                                    </div>
+                            </li>
+                        <li >
+                <a class="cnh  arr "
+                   href="javascript:void(0);">
+                    关于我们                </a>
+                                <div class="sub">
+                                        <a href="/brief.html"> 集团简介</a>
+                                        <a href="/culture.html"> 企业文化</a>
+                                        <a href="/jobs.html"> 加入我们</a>
+                                        <a href="/brand.html"> 品牌VI元素下载</a>
+                                    </div>
+                            </li>
+                        <li >
+                <a class="cnh "
+                   href="/contact.html">
+                    联系我们                </a>
+                            </li>
+                    </ul>
+    </div>
+    <div class="head-right">
+                <div class="ur-select" id="urSelect">
+            <div class="urOptionSelected"><span data-lang="cn">中文</span> <i class="urFonts icon_caretDown"></i></div>
+            <div class="optionList">
+                <ul>
+                    <li><a href="/?language=cn">中文</a></li>
+                    <li><a href="/?language=en">English</a></li>
+                </ul>
+            </div>
+        </div>
+            </div>
+</div>
+
+<style>
+    /*只在当前页*/
+    .rev_slider_wrapper{width: 100%!important;}
+    #rev_slider_1 .slotholder{filter: none!important;}
+    .cn_slide3 .tp-parallax-wrap{margin-top: 116px!important;}
+</style>
+<script src="static/index/js/jquery.SuperSlide.2.1.3.js"></script>
+<div class="asdsafw">
+    <div class="rev_slider_wrapper">
+        <div id="rev_slider_1" class="rev_slider" data-version="5.4.5">
+            <ul id="J_top_banner_ul">
+                <!-- MINIMUM SLIDE STRUCTURE -->
+                                <li data-transition="random" data-masterspeed="1000"  data-jump_link="">
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="/upload/banner/20190524/a9827f7ae05bf9c54a81884e8beaf8f4.jpg" alt="Sky" class="rev-slidebg">
+                        <div class="tp-caption tp-resizeme normalWraping layer_2"
+
+                             data-frames='[{"delay":600,"speed":1200,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
+                                 {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="['12', '20', '10', '25']"
+                             data-width="100%"
+                             data-height="['auto]"
+                             data-whitesapce="['normal']"
+                             data-word-wrap="['normal']"
+                             data-white-break="['break-all']"
+                             data-fontsize="56"
+                             data-lineheight="70"
+                             data-fontweight="700"
+                             data-letterspacing="['4.4', '4.4', '2', '1']"
+                             data-color="#FFF"
+                             data-textAlign="center"
+                        >
+                                                        <img src="/upload/banner/20190531/b524c588965dc0beef7c45852f607e2f.png" alt="" />
+                                                    </div>
+                </li>
+                                <li data-transition="random" data-masterspeed="1000"  data-jump_link="https://www.ztn.com/news-detail.html?id=40">
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="/upload/banner/20201010/3ebef8ae03b9b4e6eb526838557728ba.jpg" alt="Sky" class="rev-slidebg">
+                        <div class="tp-caption tp-resizeme normalWraping layer_2"
+
+                             data-frames='[{"delay":600,"speed":1200,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
+                                 {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="['12', '20', '10', '25']"
+                             data-width="100%"
+                             data-height="['auto]"
+                             data-whitesapce="['normal']"
+                             data-word-wrap="['normal']"
+                             data-white-break="['break-all']"
+                             data-fontsize="56"
+                             data-lineheight="70"
+                             data-fontweight="700"
+                             data-letterspacing="['4.4', '4.4', '2', '1']"
+                             data-color="#FFF"
+                             data-textAlign="center"
+                        >
+                                                        <img src="/upload/banner/20201010/4cd37e15802abcc87039c1f5e98cf4be.png" alt="" />
+                                                    </div>
+                </li>
+                                <li data-transition="random" data-masterspeed="1000"  data-jump_link="https://www.ztn.com/oversea.html">
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="/upload/banner/20190524/005695337b924de5758bc2b05352b98b.jpg" alt="Sky" class="rev-slidebg">
+                        <div class="tp-caption tp-resizeme normalWraping layer_2"
+
+                             data-frames='[{"delay":600,"speed":1200,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
+                                 {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="['12', '20', '10', '25']"
+                             data-width="100%"
+                             data-height="['auto]"
+                             data-whitesapce="['normal']"
+                             data-word-wrap="['normal']"
+                             data-white-break="['break-all']"
+                             data-fontsize="56"
+                             data-lineheight="70"
+                             data-fontweight="700"
+                             data-letterspacing="['4.4', '4.4', '2', '1']"
+                             data-color="#FFF"
+                             data-textAlign="center"
+                        >
+                                                        <img src="/upload/banner/20190904/d62b7ffd8a8e2536a7f739e429baaa70.png" alt="" />
+                                                    </div>
+                </li>
+                                <li data-transition="random" data-masterspeed="1000"  data-jump_link="https://www.ztn.com/logistics.html">
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="/upload/banner/20190524/350bb5418b2d55cb822155b7eeafb3f4.jpg" alt="Sky" class="rev-slidebg">
+                        <div class="tp-caption tp-resizeme normalWraping layer_2"
+
+                             data-frames='[{"delay":600,"speed":1200,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
+                                 {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="['12', '20', '10', '25']"
+                             data-width="100%"
+                             data-height="['auto]"
+                             data-whitesapce="['normal']"
+                             data-word-wrap="['normal']"
+                             data-white-break="['break-all']"
+                             data-fontsize="56"
+                             data-lineheight="70"
+                             data-fontweight="700"
+                             data-letterspacing="['4.4', '4.4', '2', '1']"
+                             data-color="#FFF"
+                             data-textAlign="center"
+                        >
+                                                        <img src="/upload/banner/20190904/70a3f898046b01f08c5b646cf17c0824.png" alt="" />
+                                                    </div>
+                </li>
+                                <li data-transition="random" data-masterspeed="1000"  data-jump_link="https://www.ztn.com/goten.html">
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="/upload/banner/20190905/4c0ed76ed985edd08b6c2ca414eb6e7c.jpg" alt="Sky" class="rev-slidebg">
+                        <div class="tp-caption tp-resizeme normalWraping layer_2"
+
+                             data-frames='[{"delay":600,"speed":1200,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
+                                 {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="['12', '20', '10', '25']"
+                             data-width="100%"
+                             data-height="['auto]"
+                             data-whitesapce="['normal']"
+                             data-word-wrap="['normal']"
+                             data-white-break="['break-all']"
+                             data-fontsize="56"
+                             data-lineheight="70"
+                             data-fontweight="700"
+                             data-letterspacing="['4.4', '4.4', '2', '1']"
+                             data-color="#FFF"
+                             data-textAlign="center"
+                        >
+                                                        <img src="/upload/banner/20190904/479faabcbe7e3aae5421f7c38a901909.png" alt="" />
+                                                    </div>
+                </li>
+                                <li data-transition="random" data-masterspeed="1000"  data-jump_link="https://www.ztn.com/worldtech.html">
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="/upload/banner/20200716/a26c2df077662f4c2f6b8160658a9fd1.jpg" alt="Sky" class="rev-slidebg">
+                        <div class="tp-caption tp-resizeme normalWraping layer_2"
+
+                             data-frames='[{"delay":600,"speed":1200,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
+                                 {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+
+                             data-x="center"
+                             data-y="center"
+                             data-hoffset="0"
+                             data-voffset="['12', '20', '10', '25']"
+                             data-width="100%"
+                             data-height="['auto]"
+                             data-whitesapce="['normal']"
+                             data-word-wrap="['normal']"
+                             data-white-break="['break-all']"
+                             data-fontsize="56"
+                             data-lineheight="70"
+                             data-fontweight="700"
+                             data-letterspacing="['4.4', '4.4', '2', '1']"
+                             data-color="#FFF"
+                             data-textAlign="center"
+                        >
+                                                        <img src="/upload/banner/20200716/46abed410bc4e80797e54ff9929cb58f.png" alt="" />
+                                                    </div>
+                </li>
+                
+
+            </ul><!-- END SLIDES LIST -->
+        </div>
+    </div>
+</div>
+<div class="index_item xitem5">
+    <div class="wrapperKn">
+        <div class="index_hd">
+            <h2>我们的协同数据平台</h2>
+            <h3>Collaborative data</h3>
+        </div>
+        <div class="itemBd">
+            <ul class="superiority" style="flex-wrap:wrap;">
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia1"></em></i>
+                        <h3>100万+㎡</h3>
+                        <p>海外仓总面积</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia3"></em></i>
+                        <h3>3亿+</h3>
+                        <p>年订单处理量</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia5"></em></i>
+                        <h3>3500+</h3>
+                        <p>全球员工</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia7"></em></i>
+                        <h3>10个</h3>
+                        <p>欧美日发达国家转运中心</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia2"></em></i>
+                        <h3>13个</h3>
+                        <p>中国大陆直接网点</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia4"></em></i>
+                        <h3>30个</h3>
+                        <p>订单处理中心</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia6"></em></i>
+                        <h3>1W+</h3>
+                        <p>注册用户</p>
+                    </div>
+                </li>
+                                <li style="width: 25%;text-align:center;flex:initial;">
+                    <div class="holder">
+                        <i class="icon icon-super"><em class="kbico ia8"></em></i>
+                        <h3>97条</h3>
+                        <p>自营国际专线</p>
+                    </div>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="index_item xitem1">
+    <div class="wrapperKn">
+        <div class="index_hd">
+            <h2>主营业务</h2>
+            <h3>BUSINESS</h3>
+        </div>
+        <div class="itemBd">
+            <ul class="servicebox">
+                                <li>
+                    <a href="/oversea.html">
+                        <img src="/upload/main_business/20190531/842172e65f079f86cddd4050d440661b.jpg" class="simg" alt="">
+                        <div class="textbox">
+                            <div class="hod">
+                                <div class="title">
+                                    <i class="kbico ion1"></i>
+                                    <h4>海外仓服务</h4>
+                                </div>
+                                <div class="par">
+                                    <p>谷仓海外仓专注于为客户提供一站式仓储服务如标准化仓储、定制化仓储、海外仓头程服务以及转运服务，业务覆盖全球30余个国家，海外仓总面积超过100万平方米，是实力与影响力兼备的跨境海外仓品牌。</p>
+                                    <p class="more"><span>查看更多</span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                <li>
+                    <a href="/logistics.html">
+                        <img src="/upload/main_business/20210707/3caf36c4c75590ad94d582007129402f.jpg" class="simg" alt="">
+                        <div class="textbox">
+                            <div class="hod">
+                                <div class="title">
+                                    <i class="kbico ion2"></i>
+                                    <h4>专线物流服务</h4>
+                                </div>
+                                <div class="par">
+                                    <p>云途物流的核心渠道为直发各国的商业专线，旗下拥有四大类，50余种物流产品和服务，涵盖自营商业专线、FBA头程物流、邮政和快递代理等解决方案，在直发全球的商业专线领域独占鳌头。</p>
+                                    <p class="more"><span>查看更多</span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                <li>
+                    <a href="/goten.html">
+                        <img src="/upload/main_business/20210707/902deabffedabdb829c03ba371afb068.jpg" class="simg" alt="">
+                        <div class="textbox">
+                            <div class="hod">
+                                <div class="title">
+                                    <i class="kbico ion4"></i>
+                                    <h4>分销服务</h4>
+                                </div>
+                                <div class="par">
+                                    <p>冠通分销平台旨在为amazon、ebay、wish、沃尔玛及独立站等平台卖家提供海外仓货源一件代发服务，解决选品难、资金有限、海外仓服务门槛高、售后难等经营难题，现已覆盖美国、英国、德国、捷克等国家。</p>
+                                    <p class="more"><span>查看更多</span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</div>
+<div class="index_item xitem2">
+    <div class="wrapperKn">
+        <div class="index_hd">
+            <h2>纵腾全球仓</h2>
+            <h3>Global Logistics and Fulfillment Networks</h3>
+        </div>
+        <div class="index_inner map-hm">
+            <div class="map-content" style="background: url('/upload/warehouse_group_bg_map/20190829/263ea9ea1dc4d56884181f8476060ce9.png?20200716') no-repeat left top;">
+                                <div class="coordinate-item right-side " style="left: 548px;top: 181px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">英国仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>170,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190531/f00caebcd81abe222fae04171e962b44.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 561px;top: 230px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">法国仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>33,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190531/87b7c5cc8ec7cb49ef57f4b013bc20b4.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 541px;top: 262px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">西班牙仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>3,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/5df59bd8e532342c37060fa38007d40a.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 1086px;top: 580px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">澳洲仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>15,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/8a4dd755fb88194c0503a436310c1331.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 607px;top: 206px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">捷克仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>52,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/4a8d453a52a02f20703fff71ec6ea980.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 600px;top: 244px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">意大利仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>2,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/875abfa70445b783f31b46c72b37bcf9.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item left-side " style="left: 294px;top: 257px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">美东仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>315,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190531/154b15aaa5a431fcc6f4f16fa24f7da6.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item left-side " style="left: 140px;top: 276px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">美西仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>330,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/7ed62e4fd7923792bbc616fb0be282f5.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item left-side " style="left: 259px;top: 297px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">美南仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>55,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/63c3109e5ea00bf16c7419ebc4bd5a2d.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 972px;top: 317px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">东莞仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>38,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20190829/974b174560decf9f46d9ab478b3b4d4c.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                                <div class="coordinate-item right-side " style="left: 588px;top: 200px;">
+                    <span class="red-pointer"></span>
+                                        <div class="warehouse-detail"><div class="box-flex">
+                        <div class="house-section">
+                                                        <div class="item">
+                                <h4 class="with-icon">德国仓</h4>
+                                <ul class="house-info">
+<li><b>面积：</b>40,000㎡</li>
+</ul>                            </div>
+                                                    </div>
+                                                <div class="house-pic">
+                                                        <img src="/upload/warehouse_image/20200901/398b722f2704bbc449d503c39cd09b9f.jpg" alt="" />
+                                                    </div>
+                                            </div>
+                    </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="index_item xitem4">
+    <div class="wrapperKn">
+        <div class="index_hd">
+            <h2>关于我们</h2>
+            <h3>ABOUT</h3>
+        </div>
+        <div class="itemBd">
+            <div class="about_inner">
+                <div class="aboutbox fclear">
+                                        <div class="video" >
+                        <div class="playShade kbico" style="background-size:570px 380px;background-repeat:no-repeat;background-image:url('/upload/brand/image/20190919/4921fa17d700616b1137df31b6bfa6df.png');"></div>
+                        <video id="ourvideo" width="570" height="380" style="object-fit: fill" controls></video>
+                    </div>
+                                        <div class="aboutsec">
+                        <h2>集团简介</h2>
+                        <div class="section">
+                            <p>福建纵腾网络有限公司（简称“纵腾集团”）于2009年在中国福州成立，现总部位于深圳，是一家提供海外仓和专线物流服务的国际化物流集团。“谷仓海外仓”、“云途物流”、“纵腾冠通”、“沃德太客”等知名的服务品牌。纵腾集团以“全球跨境电商基础设施服务商”为企业定位，聚焦于电商海外仓储配送、小包专线物流、头程运输服务及供应链金融等增值服务，为跨境电商企业提供高效便捷、具有性价比的综合物流服务。服务客户涵盖中国顶尖的跨境电商企业和品牌商。</p><p>历经12年的发展，纵腾集团已经建成覆盖美、欧、日、澳等国家与地区的跨境电商物流服务网络，拥有境外仓储及中转枢纽30座，总面积超过100万平方米，年处理订单量超过3亿单，拥有员工超3500人，其中海外员工1000多名。</p><div class="aboutkey"><a href="brief.html">了解更多</a>&nbsp;<a href="video.html">视频中心</a>&nbsp;<a href="jobs.html">加入我们</a>&nbsp;<a href="contact.html">联系我们</a></div>                        </div>
+                    </div>
+                </div>
+                                <div class="gdpic">
+                    <div class="hd"><ul></ul></div>
+                    <div class="bd">
+                        <ul class="picList">
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/0c0c12110a0e96c254602f660881fe21.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/7bebf628c4ddf82e7cacaae1e8555bee.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/302f82b144806b1f2c046109b35ce955.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/f36c6b7ad00710bb46fe1fed4e1d3d13.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/0e9b9f44c33a1ea40e31fce116f45e51.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/a7a45b722c4948e248f6de36f2e692f0.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/1616d4c22f3aef88cd11f87313de42b8.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/9f880104aa86da8d4c76ed9e3e9710b3.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/2c99fedd5ef8f66e3ed6bcd799a717d3.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20190605/56ef458857e2c66bb8edceb6bfaaa8f9.jpg" /></div></li>
+                                                        <li><div class="pic"><img src="/upload/banner/20200327/c3fdd642fab9046527bc4b96ff88a973.png" /></div></li>
+                                                    </ul>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    $(".gdpic").slide({mainCell:".bd ul",autoPage:true,interTime:30,effect:"leftMarquee",autoPlay:true,vis:6,trigger:"click"});
+                </script>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="index_item xitem3">
+    <div class="wrapperKn">
+        <div class="index_hd">
+            <h2>资讯动态</h2>
+            <h3>NEWS</h3>
+        </div>
+        <div class="itemBd">
+            <ul class="newsbox">
+                <li class="bigone">
+                                        <div class="inner">
+                        <div class="title"><h3><a href="/news-detail.html?id=50">纵腾集团总裁王钻出席国务院经济形势专家和企业家座谈会</a></h3></div>
+                        <div class="imgbox"><a href="/news-detail.html?id=50"><img src="/upload/news_banner/20210714/9ec9f6a1102943a15874288d957e5df6.png" alt=""></a></div>
+                        <div class="newsType"><span class="type">纵腾新闻</span><span class="time">2021-07-14</span></div>
+                        <div class="section Ellipsis">
+                            <div class="gt">
+                                <p>向李克强总理汇报了新形势下我国跨境电商行业发展面临的机遇和挑战。</p>
+                            </div>
+                        </div>
+                    </div>
+                                    </li>
+                <li class="helflist">
+                                        <div class="inner">
+                        <div class="imgbox"><a href="/news-detail.html?id=51"><img src="/upload/news_banner/20210723/9ae0f1c3e6f0a215be4fe50186ae7162.jpg" alt=""></a></div>
+                        <div class="section">
+                            <div class="title"><h3><a href="/news-detail.html?id=51">纵腾集团捐赠200万元驰援河南</a></h3></div>
+                            <div class="newsType"><span class="type">纵腾新闻</span><span class="time"> 2021-07-23</span></div>
+                            <div class="Ellipsis">
+                                <div class="gt">
+                                    <p>云途物流与谷仓海外仓分别捐赠100万，灾情面前，我们与河南人民风雨同舟！</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="inner">
+                        <div class="imgbox"><a href="/news-detail.html?id=44"><img src="/upload/news_banner/20210222/e16be81c57b92633a725a03bbf099dfd.jpg" alt=""></a></div>
+                        <div class="section">
+                            <div class="title"><h3><a href="/news-detail.html?id=44">直击海外仓 | 疫情下的纵腾谷仓英国仓：每个人都是战士</a></h3></div>
+                            <div class="newsType"><span class="type">纵腾新闻</span><span class="time"> 2021-02-22</span></div>
+                            <div class="Ellipsis">
+                                <div class="gt">
+                                    <p>逆行，不是因为无所畏惧，而是因为肩上的责任和期盼不能辜负，每一个奋战的日日夜夜，每一次紧紧相依的协作无间，都是我们追梦的符号。</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="inner">
+                        <div class="imgbox"><a href="/news-detail.html?id=43"><img src="/upload/news_banner/20210222/bd35e157d82e42f5ac45eaa31af9f28e.jpg" alt=""></a></div>
+                        <div class="section">
+                            <div class="title"><h3><a href="/news-detail.html?id=43">纪录片丨2021，迎难而上</a></h3></div>
+                            <div class="newsType"><span class="type">纵腾新闻</span><span class="time"> 2021-02-22</span></div>
+                            <div class="Ellipsis">
+                                <div class="gt">
+                                    <p>2020，我们共同经历了太多，在惶恐、等待、焦虑与压力面前，也曾想问问这个世界怎么了，回首这一年，有很多藏在心里的话想要说...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Rev slider Add on Start 只在首页有以下js -->
+<script src="static/index/js/jquery.themepunch.revolution.min.js?20200716"></script>
+<script src="static/index/js/jquery.themepunch.tools.min.js?20200716"></script>
+<script src="static/index/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="static/index/js/extensions/revolution.extension.video.min.js"></script>
+<!-- Rev slider Add on End -->
+
+<!--<script src="https://cdn.jsdelivr.net/hls.js/latest/hls.min.js"></script>-->
+<script src="static/index/js/hls.min.js"></script>
+
+<script>
+    var video = document.getElementById('ourvideo');
+    var video_path = '/upload/handle/Index/ZT-Index.m3u8';
+    if(Hls.isSupported()) {
+        var hls = new Hls();
+        hls.loadSource(video_path);
+        hls.attachMedia(video);
+    }else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = video_path;
+    }
+</script>
+
+<script>
+    var revapi = jQuery('#rev_slider_1').show().revolution({
+        delay: 3000,
+        responsiveLevels: [1400,1200, 1140, 778, 480],
+        gridwidth: [1140, 1140, 920, 700, 380],
+        sliderLayout: 'fullscreen',
+        onHoverStop: 'off',
+        navigation: {
+            arrows: {
+                enable: true,
+                style: "me_arrows",
+                hide_onleave: false,
+                left: {
+                    container: 'slider',
+                    h_align: 'left',
+                    v_align: 'center',
+                    h_offset: 60,
+                    v_offset: 0
+                },
+                right: {
+                    container: 'slider',
+                    h_align: 'right',
+                    v_align: 'center',
+                    h_offset: 60,
+                    v_offset: 0
+                }
+            },
+            bullets: {
+                enable: false
+            }
+        }
+    });
+
+    $(function(){
+        var slotholder = $('.slotholder').outerHeight();
+        var bannertxt = $('.tp-mask-wrap').outerHeight();
+        if($(window).width() < 1000){
+            $('.tp-revslider-mainul li').each(function(){
+                $(this).find('.tp-loop-wrap').height(slotholder);
+                var loopHih = $(this).find('.tp-loop-wrap').height();
+                var loopHlef = loopHih / 2;
+                var eachHigh = $(this).find('.tp-mask-wrap').outerHeight();
+                var maskHlef = eachHigh / 2
+                var top = loopHlef - maskHlef;
+                $(this).find('.tp-mask-wrap').css('top', top);
+
+            });
+        }
+    });
+
+    $('#J_top_banner_ul li').click(function () {
+        var link = $(this).data('jump_link');
+        if(link != ''){
+            window.location.href = link;
+        }
+        return false;
+    })
+
+</script>
+<script>
+    $(function(){
+        //alert('请选择语言弹窗设计还未提供，此处暂时为一条提示');
+    });
+</script>
+
+<div class="footer" style="clear: both">
+    <div class="wrapperKn">
+        <div class="foot_nav">
+            <div class="box footlogo">
+                                <a class="" href="/"><img src="static/index/img/logo2.png?20200716" alt=""></a>
+                            </div>
+                        <div class="box">
+                <h3>主营业务</h3>
+                <ul class="list">
+                    <li><a href="/oversea.html">海外仓服务</a></li><li><a href="/logistics.html">专线物流</a></li><li><a href="http://www.zongteng.com.cn/goten.html">分销服务</a></li><li><a href="/worldtech.html">定制化物流服务</a></li>                </ul>
+            </div>
+                        <div class="box">
+                <h3>快捷菜单</h3>
+                <ul class="list">
+                    <li><a href="/brief.html" target="_blank">集团简介</a></li><li><a href="/jobs.html">加入我们</a></li><li><a href="/contact.html">联系我们</a></li>                </ul>
+            </div>
+                        <div class="box">
+                <h3>友情链接</h3>
+                <ul class="list">
+                    <li><a href="https://www.goodcang.com/" target="_blank">谷仓海外仓</a></li><li><a href="https://www.yunexpress.cn/" target="_blank">云途物流</a></li><li><a href="https://www.gotenchina.com/" target="_blank">冠通分销</a></li><li><a href="https://www.miworldtech.com/">沃德太客</a></li>                </ul>
+            </div>
+                        <div class="box">
+                <h3>联系我们</h3>
+                <ul class="list">
+                    <li><i class="iconfont icon-tel"></i>0755-29167914</li>
+                    <li><i class="kbico icon-add"></i>广东省深圳市龙岗区坂雪岗大道与永香路交汇处创汇国际中心15-19层</li>
+                    <li><i class="kbico icon-add"></i>福建省福州市仓山区盖山镇盘屿路869号福湾工业园区26幢</li>
+                </ul>
+            </div>            <div class="box qrcodebox">
+                <div class="qrcode"><img src="static/index/img/qrcode1.jpg?20200716" alt=""><h5>微信公众号</h5></div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="wrapperKn">
+<p class="copyr">纵腾集团 © 2008-2021 All Rights Reserved.<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[<a href="http://beian.miit.gov.cn/" target="_blank">闽ICP备14019350号-2</a>]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35010402351228" target="_blank">闽公网安备 35010402351228号</a>]</p>
+</div>  
+    </div>
+</div>
+
+<div id="chatbar" class="chatbar">
+    <div class="box">
+        <a href="javascript:;" class="tel"><span><i class="iconfont icon-tel"></i><em>86-0755-29167914</em></span></a>
+    </div>
+</div>
+
+<script type="text/javascript" src="static/index/js/korbin.js?20200716"></script>
+</body>
+</html>
