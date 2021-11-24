@@ -1,52 +1,22 @@
 (function () {
-  var myChart = echarts.init(document.getElementById('index_map_1'))
-
+  var myChart = echarts.init(document.getElementById('index_map_2'))
   var geoCoordMap = {
-    "福州市": [119.29211828479299, 26.07774301096993],
-    "泉州市": [118.67249759696338, 24.87179986233384],
-    "安溪县": [118.18345034147433, 25.072863995617777],
-    "厦门市": [118.08328377332067, 24.485393904492792],
-    "宁德市": [119.54630707487763, 26.670198621764975],
-    "漳州市": [117.64460244860537, 24.518371347691865],
+    "南京市": [118.804722, 32.065631],
   }
 
   var mapData = [{
-    name: '福州市',
-    value: '福州总部（福州市台江区升龙汇金中心805-808-809）',
-    pic: '/images/%E5%85%AC%E5%8F%B8%E5%8E%86%E7%A8%8B.jpg',
-    selected: true
-  }, {
-    name: '泉州市',
-    value: '泉州运营中心（泉州市星光耀14号楼1216-1217）',
-    pic: '/images/%E5%85%AC%E5%8F%B8%E5%8E%86%E7%A8%8B.jpg',
-    selected: true
-  }, {
-    name: '厦门市',
-    value: '厦门运营中心（厦门市观音山信义国际中心607）',
-    pic: '/images/%E5%85%AC%E5%8F%B8%E5%8E%86%E7%A8%8B.jpg',
-    selected: true
-  }, {
-    name: '安溪县',
-    value: '安溪运营中心（泉州市安溪县金龙现代广场718）',
-    pic: '/images/%E5%85%AC%E5%8F%B8%E5%8E%86%E7%A8%8B.jpg',
-    selected: true
-  }, {
-    name: '漳州市',
-    value: '漳州运营中心（漳州市荣成四季商业广场3号618）',
-    pic: '/images/%E5%85%AC%E5%8F%B8%E5%8E%86%E7%A8%8B.jpg',
-    selected: true
-  }, {
-    name: '宁德市',
-    value: '宁德运营中心（宁德市天茂城市广场2号楼513）',
+    name: '南京市',
+    value: '南京运营中心（南京市六合区5G空间902）',
     pic: '/images/%E5%85%AC%E5%8F%B8%E5%8E%86%E7%A8%8B.jpg',
     selected: true
   }]
 
   const citys = Object.keys(geoCoordMap).map(city => {
     return {
-      name: city
+      name: city,
     }
   })
+
   const area = {}
   mapData.forEach(item => {
     area[item.name] = {
@@ -54,6 +24,7 @@
       pic: item.pic
     }
   })
+
   var convertData = function (data) {
     var res = [];
     for (var i = 0; i < data.length; i++) {
@@ -74,7 +45,7 @@
       }
     },
     geo: {
-      map: '福建',
+      map: '江苏',
       label: {
         normal: {
           show: true,
@@ -126,9 +97,10 @@
       {
         name: '公司分布',
         type: 'map',
-        mapType: '福建',
+        mapType: '江苏',
         coordinateSystem: 'geo',
         data: mapData,
+        layoutSize: '200%',
         label: {
           normal: {
             show: true,

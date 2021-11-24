@@ -39,7 +39,7 @@
     }
 
     option = {
-      backgroundColor: '#fff',
+      backgroundColor: '##fff',
       title: {
         left: 'center',
         textStyle: {
