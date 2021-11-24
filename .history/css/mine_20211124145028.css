@@ -1,0 +1,11 @@
+.sub a:hover {
+  color: #008A94 !important;
+}
+.index-card-item {
+
+}
+.black-line {
+  background-color: black;
+  width: 100%;
+  height: 10px;
+}

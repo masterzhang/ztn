@@ -1,0 +1,22 @@
+.sub a:hover {
+  color: #008A94 !important;
+}
+.black-line {
+  background-color: black;
+  width: 100%;
+  height: 3px;
+  margin: 2px;
+}
+.black-item {
+  float: left;
+  width: px;
+  margin: 0 5px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.index-card-item {
+
+}
+
