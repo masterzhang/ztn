@@ -156,9 +156,8 @@
       }
     },
     data: Object.keys(geoCoordMap).map(name => {
-      return {
+      return return {
         name: name,
-        value: geoCoordMap[name]
       };
     })
   })

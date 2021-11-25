@@ -138,30 +138,7 @@
         })
       });
   });
-  series.push({
-    type: 'effectScatter',//带有涟漪特效动画的散点（气泡）图。利用动画特效可以将某些想要突出的数据进行视觉突出。
-    coordinateSystem: 'geo',//该系列使用的坐标系
-    zlevel: 2,
-    rippleEffect: {//涟漪特效相关配置
-      brushType: 'stroke'
-    },
-    label: {//图形上的文本标签，可用于说明图形的一些数据信息，比如值，名称等
-      show: true,
-      position: 'right',
-      formatter: '{b}'
-    },
-    itemStyle: {
-      normal: {
-        color: '#EE4B13'
-      }
-    },
-    data: Object.keys(geoCoordMap).map(name => {
-      return {
-        name: name,
-        value: geoCoordMap[name]
-      };
-    })
-  })
+  series.push()
 
   option = {
     backgroundColor: '#404a59',

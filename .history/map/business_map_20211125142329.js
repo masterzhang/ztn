@@ -173,6 +173,7 @@
     },
     geo: {
       map: 'world',
+      center: [118.804722, 32.065631],
       label: {
         normal: {
           show: false,

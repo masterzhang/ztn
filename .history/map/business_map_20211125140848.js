@@ -8,9 +8,9 @@
     '黑龙江': [128.087398, 46.851304],
     '内蒙古': [117.711322, 44.267121],
     '广州': [113.663917, 23.633152],
-    '云南': [101.59529, 24.241931],
-    '义乌': [120.081582, 29.34138],
-    '海南': [109.616512, 18.804581],
+    '云南': [],
+    '义乌': [],
+    '海南': [],
   }
   var inMap = {
     "福州": [119.29211828479299, 26.07774301096993],
@@ -138,30 +138,6 @@
         })
       });
   });
-  series.push({
-    type: 'effectScatter',//带有涟漪特效动画的散点（气泡）图。利用动画特效可以将某些想要突出的数据进行视觉突出。
-    coordinateSystem: 'geo',//该系列使用的坐标系
-    zlevel: 2,
-    rippleEffect: {//涟漪特效相关配置
-      brushType: 'stroke'
-    },
-    label: {//图形上的文本标签，可用于说明图形的一些数据信息，比如值，名称等
-      show: true,
-      position: 'right',
-      formatter: '{b}'
-    },
-    itemStyle: {
-      normal: {
-        color: '#EE4B13'
-      }
-    },
-    data: Object.keys(geoCoordMap).map(name => {
-      return {
-        name: name,
-        value: geoCoordMap[name]
-      };
-    })
-  })
 
   option = {
     backgroundColor: '#404a59',

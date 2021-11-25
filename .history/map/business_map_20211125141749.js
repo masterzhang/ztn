@@ -156,9 +156,13 @@
       }
     },
     data: Object.keys(geoCoordMap).map(name => {
+      return return {
+        name: dataItem[1].name,
+      };
+    })item[1].map((dataItem) => {
       return {
-        name: name,
-        value: geoCoordMap[name]
+        name: dataItem[1].name,
+        value: allMap[dataItem[1].name].concat([dataItem[1].value])
       };
     })
   })

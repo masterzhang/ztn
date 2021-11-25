@@ -131,6 +131,7 @@
           }
         },
         data: item[1].map((dataItem) => {
+          debugger
           return {
             name: dataItem[1].name,
             value: allMap[dataItem[1].name].concat([dataItem[1].value])
@@ -158,7 +159,6 @@
     data: Object.keys(geoCoordMap).map(name => {
       return {
         name: name,
-        value: geoCoordMap[name]
       };
     })
   })

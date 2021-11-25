@@ -155,10 +155,10 @@
         color: '#EE4B13'
       }
     },
-    data: Object.keys(geoCoordMap).map(name => {
+    data: Obitem[1].map((dataItem) => {
       return {
-        name: name,
-        value: geoCoordMap[name]
+        name: dataItem[1].name,
+        value: allMap[dataItem[1].name].concat([dataItem[1].value])
       };
     })
   })
