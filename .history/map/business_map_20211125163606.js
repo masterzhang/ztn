@@ -27,8 +27,8 @@
   var allMap = { ...geoCoordMap, ...inMap, ...inMap2 }
   // 坐标转换
   for (var key in allMap) {
-    if (allMap[key][0] < -20) {
-      allMap[key][0] += 360;
+    if (geoCoordMap[key][0] < -20) {
+      geoCoordMap[key][0] += 360;
     }
   }
   var planeData = []

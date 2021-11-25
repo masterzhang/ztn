@@ -23,14 +23,13 @@
     '西班牙': [-3.528695, 39.409032],
     '加拿大': [-106.021944, 56.099208],
   }
-
-  var allMap = { ...geoCoordMap, ...inMap, ...inMap2 }
-  // 坐标转换
-  for (var key in allMap) {
-    if (allMap[key][0] < -20) {
-      allMap[key][0] += 360;
+  for (var key in geoCoordMap) {
+    if (geoCoordMap[key][0] < -20) {
+      geoCoordMap[key][0] += 360;
     }
+    console.log(key + '---' + geoCoordMap[key])
   }
+  var allMap = { ...geoCoordMap, ...inMap, ...inMap2 }
   var planeData = []
   var fromData = Object.keys(geoCoordMap)
   var toData = Object.keys(inMap)

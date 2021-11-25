@@ -23,14 +23,16 @@
     '西班牙': [-3.528695, 39.409032],
     '加拿大': [-106.021944, 56.099208],
   }
-
-  var allMap = { ...geoCoordMap, ...inMap, ...inMap2 }
-  // 坐标转换
-  for (var key in allMap) {
-    if (allMap[key][0] < -20) {
-      allMap[key][0] += 360;
+  for (var key in geoCoordMap) {
+    if (geoCoordMap[key][0] < -20) {
+      geoCoordMap[key][0] += 360;
     }
+    console.log(key + '---' + geoCoordMap[key])
   }
+————————————————
+  版权声明：本文为CSDN博主「江湖行骗老中医」的原创文章，遵循CC 4.0 BY - SA版权协议，转载请附上原文出处链接及本声明。
+  原文链接：https://blog.csdn.net/liming1016/article/details/106090756
+  var allMap = { ...geoCoordMap, ...inMap, ...inMap2 }
   var planeData = []
   var fromData = Object.keys(geoCoordMap)
   var toData = Object.keys(inMap)
