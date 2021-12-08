@@ -14,7 +14,8 @@
   <link rel="stylesheet" href="css/korbin.css">
   <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
   <script src="map/echarts.min.js"></script>
-  <script src="map/world_1.js"></script>
+  <script src="map/fujian.js"></script>
+  <script src="map/jiangsu.js"></script>
 </head>
 
 <body>
@@ -26,13 +27,14 @@
     </div>
     <div class="nav">
       <ul>
-        <li class="curr"> <a class="cnh " href="/"> 首页 </a> </li>
+        <li> <a class="cnh " href="/"> 首页 </a> </li>
         <li> <a class="cnh  arr " href="javascript:void(0);"> 主营业务 </a>
           <div class="sub">
             <a href="/oversea.html"> 业务模式</a>
           </div>
         </li>
-        <li> <a class="cnh" href="/news.html"> 资讯动态 </a></li>
+        <li> <a class="cnh" href="/news.html"> 资讯动态 </a>
+        </li>
         <li> <a class="cnh  arr " href="javascript:void(0);"> 关于我们 </a>
           <div class="sub">
             <a href="/brief2.html"> 企业介绍</a>
@@ -51,16 +53,17 @@
   </div>
   <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
   <div class="PageMain">
-    <div class="bannerInpic  vasbanr "
-      style="background: url('/self/images2/业务模式首图.jpg') no-repeat; background-size: 100% 100%;">
+    <div class="bannerInpic  vasbanr " style="background: url('/self/images/企业地图置顶图.jpg') no-repeat">
     </div>
-    <div class="pagsection sec4">
-      <div class="pagsection sec5">
-        <div class="wrapperKn" style="width: 100%;">
-          <div class="wrapHd">
-            <h2>海外仓版图</h2>
-          </div>
-          <div id="index_map_3" class="map-content" style="height: 900px">
+    <div class="wrapperKn" style="width: 100%;">
+      <div class="wrapperKn" style="width: 100%;">
+        <div class="wrapHd" style="margin-top: 40px;">
+          <h2>企业地图</h2>
+        </div>
+        <div id="index_map" class="map-content" style="height: 900px;position: relative;;">
+          <div id="index_map_1" style="width: 100%;height: 900px;float: left;"></div>
+          <div style="position: absolute;right: 400px;bottom: 0;border: 1px dashed #000;">
+            <div id="index_map_2" style="width: 300px;height: 300px;"></div>
           </div>
         </div>
       </div>
@@ -69,22 +72,6 @@
     <!-- 数字滚动 -->
     <script type="text/javascript" src="js/TweenLite.min.js"></script>
     <script type="text/javascript" src="js/lem_counter.js"></script>
-    <script type="text/javascript">
-      $(function () {
-        //窗口显示才加载
-        var wrapTop = $(".digital").offset().top;
-        var istrue = true;
-        $(window).on("scroll",
-          function () {
-            var s = $(window).scrollTop();
-            if (s > wrapTop - 600 && istrue) {
-              $('.counter-numb').lemCounter();
-              istrue = false;
-            };
-          });
-
-      })
-    </script>
     <script>
       var swiper = new Swiper('.swiper-container', {
         slidesPerView: 4,
@@ -142,7 +129,8 @@
       </div>
     </div>
     <script type="text/javascript" src="js/korbin.js"></script>
-    <script type="text/javascript" src="map/business_map.js"></script>
+    <script src="map/index_map_1.js"></script>
+    <script src="map/index_map_jiansu.js"></script>
   </div>
 </body>
 
